@@ -7,7 +7,7 @@ MD files here
 Total 		= 11
 Done  		= 7
 No_need 	= 4
-On_progress 	= 2 (Spel check)
+On_progress 	= 2 (Spell check)
 To_do 		= 0
 
 list = {
