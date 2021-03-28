@@ -5,10 +5,10 @@ MD files here
 
 
 Total 		= 11
-Done  		= 4
+Done  		= 7
 No_need 	= 4
-On_progress 	= 2
-To_do 		= 1
+On_progress 	= 2 (Spel check)
+To_do 		= 0
 
 list = {
 	LT_Profile 			: done
